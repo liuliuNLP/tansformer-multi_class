@@ -37,7 +37,7 @@
 使用bert-base-chinese预训练模型，评估结果如下:
 
 ```
-	  precision	   recall          f1-score	 support
+	 precision	   recall         f1-score	support
 健康	0.991026919 	0.996990973	0.994	        997
 军事	0.996	        0.997995992	0.996996997	998
 体育	0.998993964	0.996987952	0.99798995	996
@@ -58,8 +58,8 @@ weighted avg	0.995594803	0.995587645	0.995588132	4986
 
 使用chinese-electra-180g-small-discriminator预训练模型，评估结果如下:
 
-```
-	   precision	    recall	   f1-score	 support
+``
+	 precision	   recall	  f1-score	support
 体育	0.995979899	0.99497992	0.995479658	996
 健康	0.964671246	0.985957874	0.975198413	997
 军事	0.998991935	0.992985972	0.995979899	998
