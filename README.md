@@ -52,6 +52,7 @@ weighted avg	0.995594803	0.995587645	0.995588132	4986
 
 
 
+
 - chinese-electra-180g-small-discriminator
 
 模型参数: batch_size = 32, maxlen = 256, epoch=30
