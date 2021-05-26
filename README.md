@@ -1,4 +1,4 @@
-本项目是基于huggingface的 Transformers框架下进行开发的多标签分类任务。
+本项目是基于huggingface的 Transformers框架下进行开发的多分类任务。
 
 本项目是通过bert、electra三个预训练模型对下游任务进行fine-tune来实现文本多标签分类任务。
 
